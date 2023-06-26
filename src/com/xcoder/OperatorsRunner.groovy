@@ -12,6 +12,6 @@ def result = (int) (3 / 2)
 def result2 = 3 / 2 as Integer
 
 println result <= 29
-println result === 1 // true
+println result === 1 // means by reference, result is equals true
 println result2 * 130 === 130 // false
 println result <=> 1 // comparator in java
