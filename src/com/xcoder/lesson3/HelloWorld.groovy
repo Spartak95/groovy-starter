@@ -1,4 +1,4 @@
-package com.xcoder
+package com.xcoder.lesson3
 
 import java.sql.DriverManager
 
