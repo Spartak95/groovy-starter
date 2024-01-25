@@ -31,11 +31,11 @@ class ConditionRunner {
 
         println "equivalent below"
 
-        println person?.getId() // ?. null safe
+        println "Person id value: " + person?.getId()?.byteValue() // ?. means null-safe operator
 
         println()
 
-        def result = x ?: 1 // elvis operator
+        def result = x ?: 1 // Elvis operator. It is a shorthand ternary operator used for null-coalescing
         println result
     }
 }

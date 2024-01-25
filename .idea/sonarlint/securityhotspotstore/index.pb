@@ -30,3 +30,9 @@ b
 .src/com/xcoder/lesson10/ConditionRunner.groovy,4/d/4d6dd30e43687b8bbea28b134b06490a7a2c9577
 S
 #src/com/xcoder/lesson10/Person.java,a/2/a2cdd3c68f69dc955af4b8e96d1d49472b1808ae
+Y
+)src/com/xcoder/lesson11/SwitchRunner.java,6/9/69b4e48587c1269031b42d07421e44b8ef3696a7
+[
++src/com/xcoder/lesson11/SwitchRunner.groovy,4/0/402df280c120509cdcd0f4d0dd749894b929ce00
+S
+#src/com/xcoder/lesson11/Person.java,e/0/e07164db4c95db2cd80d3928c3de5e52831ffeaf
