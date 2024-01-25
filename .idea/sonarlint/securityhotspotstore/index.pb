@@ -26,3 +26,7 @@ b
 2src/com/xcoder/homework/strings/StringsDemo.groovy,1/8/18b2a944df28f3b699d50c07becc6c5216636e1a
 b
 2src/com/xcoder/homework/pattern/PatternDemo.groovy,1/f/1f43c03b655d74d82713c96c5d8da377c2b21426
+^
+.src/com/xcoder/lesson10/ConditionRunner.groovy,4/d/4d6dd30e43687b8bbea28b134b06490a7a2c9577
+S
+#src/com/xcoder/lesson10/Person.java,a/2/a2cdd3c68f69dc955af4b8e96d1d49472b1808ae
