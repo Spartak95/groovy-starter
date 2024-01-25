@@ -16,7 +16,13 @@ Y
 )src/com/xcoder/lesson3/FisrtScript.groovy,6/b/6b40801d98e9c4db9299f427249c441252aef958
 Z
 *src/com/xcoder/homework/StringsDemo.groovy,1/0/10723cb7373c3d5126260f6044a419eafd72f44f
-W
-'src/com/xcoder/lesson8/RegexRunner.java,4/1/41056f8a134a4cc7a5a1a8ed68a78319922bf73f
 Y
 )src/com/xcoder/lesson8/RegexRunner.groovy,7/2/7295a8720155e0e382fa922b334a5697f80174c6
+[
++src/com/xcoder/lesson9/ClosureRunner.groovy,7/2/7249351f01d955aab621ef78394b38f68d43b20a
+Z
+*src/com/xcoder/homework/PatternDemo.groovy,7/b/7b77278e3f0d4ad61c3d3543a110a126f56b22af
+b
+2src/com/xcoder/homework/strings/StringsDemo.groovy,1/8/18b2a944df28f3b699d50c07becc6c5216636e1a
+b
+2src/com/xcoder/homework/pattern/PatternDemo.groovy,1/f/1f43c03b655d74d82713c96c5d8da377c2b21426

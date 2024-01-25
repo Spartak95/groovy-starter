@@ -1,4 +1,4 @@
-package com.xcoder.homework
+package com.xcoder.homework.strings
 
 class StringsDemo {
     static void main(String[] args) {
