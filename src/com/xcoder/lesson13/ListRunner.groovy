@@ -3,6 +3,10 @@ package com.xcoder.lesson13
 class ListRunner {
     static void main(String[] args) {
         def list = [1, 3, 5, 6]
+        assert list.getClass() == ArrayList.class
+
+        def emptyList = []
+        assert emptyList.getClass() == ArrayList.class
 
         // read
         assert list[2] == 5

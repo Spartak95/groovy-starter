@@ -34,3 +34,9 @@ Z
 *src/com/xcoder/lesson12/LoopsRunner.groovy,1/1/111512b5c95506735f3b4bfce4ef88de79e111d3
 Y
 )src/com/xcoder/lesson13/ListRunner.groovy,e/3/e3266d4fdabbdda9a10152b01ca35c7245d479b0
+N
+src/com/xcoder/lesson14.groovy,b/8/b84e37eecc1611e2ed53ec0adb2083c2ca412cb2
+V
+&src/com/xcoder/lesson14/MapRunner.java,5/c/5cace0c75f151f4e8432dd6641de33257c89432b
+X
+(src/com/xcoder/lesson14/MapRunner.groovy,8/2/826f3877808ce40abb739e4cd24444e815c324ed
