@@ -14,14 +14,10 @@ X
 (src/com/xcoder/lesson3/HelloWorld.groovy,c/6/c63ced7bb4de529ad06703c91ea0589f88396889
 Y
 )src/com/xcoder/lesson3/FisrtScript.groovy,6/b/6b40801d98e9c4db9299f427249c441252aef958
-Z
-*src/com/xcoder/homework/StringsDemo.groovy,1/0/10723cb7373c3d5126260f6044a419eafd72f44f
 Y
 )src/com/xcoder/lesson8/RegexRunner.groovy,7/2/7295a8720155e0e382fa922b334a5697f80174c6
 [
 +src/com/xcoder/lesson9/ClosureRunner.groovy,7/2/7249351f01d955aab621ef78394b38f68d43b20a
-Z
-*src/com/xcoder/homework/PatternDemo.groovy,7/b/7b77278e3f0d4ad61c3d3543a110a126f56b22af
 b
 2src/com/xcoder/homework/strings/StringsDemo.groovy,1/8/18b2a944df28f3b699d50c07becc6c5216636e1a
 b
@@ -30,9 +26,9 @@ b
 .src/com/xcoder/lesson10/ConditionRunner.groovy,4/d/4d6dd30e43687b8bbea28b134b06490a7a2c9577
 S
 #src/com/xcoder/lesson10/Person.java,a/2/a2cdd3c68f69dc955af4b8e96d1d49472b1808ae
-Y
-)src/com/xcoder/lesson11/SwitchRunner.java,6/9/69b4e48587c1269031b42d07421e44b8ef3696a7
 [
 +src/com/xcoder/lesson11/SwitchRunner.groovy,4/0/402df280c120509cdcd0f4d0dd749894b929ce00
 S
 #src/com/xcoder/lesson11/Person.java,e/0/e07164db4c95db2cd80d3928c3de5e52831ffeaf
+Z
+*src/com/xcoder/lesson12/LoopsRunner.groovy,1/1/111512b5c95506735f3b4bfce4ef88de79e111d3
