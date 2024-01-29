@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson21/MopRunner.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson22/CustomMetaClass.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson22/MetaClassRunner.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xcoder/lesson18/Student.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xcoder/lesson18/Student.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.ClosurePractice.executor": "Debug",
     "Application.IORunner.executor": "Debug",
+    "Application.MetaClassRunner.executor": "Debug",
     "Application.MopRunner.executor": "Debug",
     "Application.OopRunner.executor": "Run",
     "Application.Runner.executor": "Debug",
@@ -62,13 +63,13 @@
       <recent name="com.xcoder.lesson18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MopRunner">
-    <configuration name="ClosurePractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.homework.closure.ClosurePractice" />
+  <component name="RunManager" selected="Application.MetaClassRunner">
+    <configuration name="IORunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson19.IORunner" />
       <module name="groovy-starter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xcoder.homework.closure.*" />
+          <option name="PATTERN" value="com.xcoder.lesson19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IORunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson19.IORunner" />
+    <configuration name="MetaClassRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson22.MetaClassRunner" />
       <module name="groovy-starter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson19.*" />
+          <option name="PATTERN" value="com.xcoder.lesson22.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MetaClassRunner" />
         <item itemvalue="Application.MopRunner" />
         <item itemvalue="Application.IORunner" />
         <item itemvalue="Application.Runner" />
         <item itemvalue="Application.OopRunner" />
-        <item itemvalue="Application.ClosurePractice" />
       </list>
     </recent_temporary>
   </component>
@@ -168,16 +169,5 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$USER_HOME$/program/groovy-4.0.18/lib/groovy-4.0.18.jar!/org/codehaus/groovy/runtime/callsite/AbstractCallSite.class</url>
-          <line>87</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
