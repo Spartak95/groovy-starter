@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson22/CustomMetaClass.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson22/MetaClassRunner.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson23/MissingMethodRunner.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/xcoder/lesson18/Student.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xcoder/lesson18/Student.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
     "Application.ClosurePractice.executor": "Debug",
     "Application.IORunner.executor": "Debug",
     "Application.MetaClassRunner.executor": "Debug",
+    "Application.MissingMethodRunner.executor": "Debug",
     "Application.MopRunner.executor": "Debug",
     "Application.OopRunner.executor": "Run",
     "Application.Runner.executor": "Debug",
@@ -63,7 +63,7 @@
       <recent name="com.xcoder.lesson18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetaClassRunner">
+  <component name="RunManager" selected="Application.MissingMethodRunner">
     <configuration name="IORunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson19.IORunner" />
       <module name="groovy-starter" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson21.MopRunner" />
+    <configuration name="MissingMethodRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson23.MissingMethodRunner" />
       <module name="groovy-starter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson21.*" />
+          <option name="PATTERN" value="com.xcoder.lesson23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson17.OopRunner" />
+    <configuration name="MopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson21.MopRunner" />
       <module name="groovy-starter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson17.*" />
+          <option name="PATTERN" value="com.xcoder.lesson21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingMethodRunner" />
         <item itemvalue="Application.MetaClassRunner" />
         <item itemvalue="Application.MopRunner" />
         <item itemvalue="Application.IORunner" />
         <item itemvalue="Application.Runner" />
-        <item itemvalue="Application.OopRunner" />
       </list>
     </recent_temporary>
   </component>
