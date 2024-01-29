@@ -10,8 +10,9 @@
     <orderEntry type="library" name="groovy-4.0.12" level="project" />
     <orderEntry type="library" name="groovy-4.0.12 (2)" level="project" />
     <orderEntry type="library" name="groovy-4.0.12 (3)" level="project" />
+    <orderEntry type="library" name="groovy-4.0.18" level="project" />
   </component>
   <component name="SonarLintModuleSettings">
-    <option name="uniqueId" value="f682caff-5e26-4229-bfda-39f3c518e194" />
+    <option name="uniqueId" value="560ab8a5-d358-45a8-8d32-aaddc12068b2" />
   </component>
 </module>
