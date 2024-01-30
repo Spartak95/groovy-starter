@@ -13,4 +13,20 @@ class Student {
     def getAt(Integer index) {
         index == 0 ? firstName : lastName
     }
+
+    def getInfo() {
+        Closure closure = {
+            println thisObject
+            println owner
+            println delegate
+
+            Closure second = {
+                println thisObject
+                println owner
+                println delegate
+            }
+
+            second()
+        }
+    }
 }
