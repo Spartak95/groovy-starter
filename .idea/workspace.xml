@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson25/Closure2Runner.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson26/task1/Task1.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson26/task2/IntegerMethods.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson26/task2/Task2.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson26/task3/Task3.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +47,9 @@
     "Application.OopRunner.executor": "Run",
     "Application.Runner.executor": "Debug",
     "Application.SelfCheck.executor": "Run",
+    "Application.Task1.executor": "Debug",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -66,46 +72,7 @@
       <recent name="com.xcoder.lesson18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Closure2Runner">
-    <configuration name="CategoryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson24.CategoryRunner" />
-      <module name="groovy-starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Closure2Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson25.Closure2Runner" />
-      <module name="groovy-starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MetaClassRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson22.MetaClassRunner" />
-      <module name="groovy-starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson22.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="MissingMethodRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson23.MissingMethodRunner" />
       <module name="groovy-starter" />
@@ -132,13 +99,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task1.Task1" />
+      <module name="groovy-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcoder.lesson26.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task2.Task2" />
+      <module name="groovy-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcoder.lesson26.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task3.Task3" />
+      <module name="groovy-starter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xcoder.lesson26.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Closure2Runner" />
-        <item itemvalue="Application.CategoryRunner" />
-        <item itemvalue="Application.MissingMethodRunner" />
-        <item itemvalue="Application.MetaClassRunner" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
         <item itemvalue="Application.MopRunner" />
+        <item itemvalue="Application.MissingMethodRunner" />
       </list>
     </recent_temporary>
   </component>
