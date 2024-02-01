@@ -21,12 +21,12 @@ class Task3 {
         ["when": { Closure whenClosure ->
             {
                 whenClosure.delegate = valueHolder
-                whenClosure.resolveStrategy = DELEGATE_ONLY
+                whenClosure.resolveStrategy = Closure.DELEGATE_ONLY
                 whenClosure()
                 ["then": { Closure thenClosure ->
                     {
                         thenClosure.delegate = valueHolder
-                        thenClosure.resolveStrategy = DELEGATE_ONLY
+                        thenClosure.resolveStrategy = Closure.DELEGATE_ONLY
                         thenClosure()
                     }
                 }]
