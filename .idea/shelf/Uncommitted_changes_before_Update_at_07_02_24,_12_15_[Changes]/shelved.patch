@@ -1,0 +1,577 @@
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml b/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml	(revision 86a57a7b9dd9338c19d9de538322f167dd0972ac)
++++ /dev/null	(revision 86a57a7b9dd9338c19d9de538322f167dd0972ac)
+@@ -1,4 +0,0 @@
+-<changelist name="Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]" date="1706292667694" recycled="true" deleted="true">
+-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch" />
+-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 1/26/2024 10:11 PM [Changes]" />
+-</changelist>
+\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch	(revision 86a57a7b9dd9338c19d9de538322f167dd0972ac)
++++ /dev/null	(revision 86a57a7b9dd9338c19d9de538322f167dd0972ac)
+@@ -1,374 +0,0 @@
+-Index: .idea/.gitignore
+-===================================================================
+-diff --git a/.idea/.gitignore b/.idea/.gitignore
+-deleted file mode 100644
+---- a/.idea/.gitignore	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,10 +0,0 @@
+--# Default ignored files
+--/shelf/
+--/workspace.xml
+--# Editor-based HTTP Client requests
+--/httpRequests/
+--# Datasource local storage ignored files
+--/dataSources/
+--/dataSources.local.xml
+--# Zeppelin ignored files
+--/ZeppelinRemoteNotebooks/
+-Index: .idea/libraries/groovy_4_0_12.xml
+-===================================================================
+-diff --git a/.idea/libraries/groovy_4_0_12.xml b/.idea/libraries/groovy_4_0_12.xml
+-deleted file mode 100644
+---- a/.idea/libraries/groovy_4_0_12.xml	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,73 +0,0 @@
+--<component name="libraryTable">
+--  <library name="groovy-4.0.12">
+--    <CLASSES>
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/ant-1.10.13.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/ant-antlr-1.10.13.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/ant-junit-1.10.13.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/ant-launcher-1.10.13.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/commons-cli-1.5.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/fastdoubleparser-0.8.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/gpars-1.2.1.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-ant-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-astbuilder-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-cli-commons-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-cli-picocli-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-console-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-contracts-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-datetime-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-dateutil-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-docgenerator-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-ginq-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-groovydoc-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-groovysh-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-jmx-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-json-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-jsr223-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-macro-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-macro-library-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-nio-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-servlet-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-sql-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-swing-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-templates-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-test-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-test-junit5-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-testng-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-toml-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-typecheckers-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-xml-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/groovy-yaml-4.0.12.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/hamcrest-core-1.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/ivy-2.5.1.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jackson-annotations-2.15.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jackson-core-2.15.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jackson-databind-2.15.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jackson-dataformat-toml-2.15.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jackson-dataformat-yaml-2.15.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jansi-2.4.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/javaparser-core-3.25.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jcommander-1.78.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jline-2.14.6.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jquery-3.5.1.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/jsr166y-1.7.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-4.13.2.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-jupiter-api-5.9.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-jupiter-engine-5.9.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-platform-commons-1.9.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-platform-engine-1.9.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/junit-platform-launcher-1.9.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/multiverse-core-0.7.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/mxparser-1.2.2.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/opentest4j-1.2.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/org.abego.treelayout.core-1.0.3.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/qdox-1.12.1.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/slf4j-api-2.0.7.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/snakeyaml-2.0.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/testng-7.5.1.jar!/" />
+--      <root url="jar://$PROJECT_DIR$/../../soft/groovy-4.0.12/lib/xstream-1.4.20.jar!/" />
+--    </CLASSES>
+--    <JAVADOC />
+--    <SOURCES />
+--  </library>
+--</component>
+-\ No newline at end of file
+-Index: .idea/sonarlint/securityhotspotstore/index.pb
+-===================================================================
+-diff --git a/.idea/sonarlint/securityhotspotstore/index.pb b/.idea/sonarlint/securityhotspotstore/index.pb
+-deleted file mode 100644
+---- a/.idea/sonarlint/securityhotspotstore/index.pb	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,42 +0,0 @@
+--
+--l
+--<src/com/xcoder/operator/relational/RelationalOperator.groovy,8/0/805e15ac5d9c084a14ae156f1f33caa797d430bf
+--R
+--"src/com/xcoder/SwitchRunner.groovy,2/d/2d5a970b13ec7a3bee19a2aa8d4fb8dc8b864ca4
+--Q
+--!src/com/xcoder/FisrtScript.groovy,0/d/0d592e6e30db98da783190d594cb837081afb44c
+--X
+--(src/com/xcoder/homework/PrintDemo.groovy,f/a/fa41ec77ef15d10917f00e82d2f5050f9d581705
+--R
+--"src/com/xcoder/StringRunner.groovy,d/e/deb6452e3239dc4fef477eb618064f3f79f5fec7
+--P
+-- src/com/xcoder/HelloWorld.groovy,9/b/9bef225789274929b12cc1b94b5a13d0d87d3935
+--B
+--groovy-starter.iml,a/c/ac8ebb130760087a7970fcd9c573564141602a47
+--:
+--
+--.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+--]
+---src/com/xcoder/doc/comment/CommentDemo.groovy,9/7/9780da74de573801fa4026a131943747e7b9c517
+--\
+--,src/com/xcoder/lesson5/VariableRunner.groovy,2/7/27190633a860b060538634cb913e4588989688bc
+--]
+---src/com/xcoder/lesson6/OperatorsRunner.groovy,1/7/17a4b9b26d9cbbee9bad98c0f7195e3739213079
+--U
+--%src/com/xcoder/doc/StringsDemo.groovy,5/2/52466b8a77b16debee9f0313bd4994951105403f
+--Z
+--*src/com/xcoder/lesson7/StringRunner.groovy,c/e/ce91aef728f0acf7f0aff2c9bca22af12c60ac51
+--X
+--(src/com/xcoder/lesson3/HelloWorld.groovy,c/6/c63ced7bb4de529ad06703c91ea0589f88396889
+--J
+--src/com/xcoder/Person.java,5/2/5232baec2521b38588376384ef78a90ad6bbdf37
+--U
+--%src/com/xcoder/VariablesRunner.groovy,9/5/953ecd45936d39b1e75d98b8b632b09582690f33
+--Y
+--)src/com/xcoder/lesson3/FisrtScript.groovy,6/b/6b40801d98e9c4db9299f427249c441252aef958
+--g
+--7src/com/xcoder/operator/arithmetic/UnaryOperator.groovy,6/3/63121928a58bfc5203e0020b119aff1fa86bc5b4
+--p
+--@src/com/xcoder/homework/operator/arithmetic/UnaryOperator.groovy,3/1/31c313a65aeca4b41dea91a0b867f279b702d87e
+--Z
+--*src/com/xcoder/homework/StringsDemo.groovy,1/0/10723cb7373c3d5126260f6044a419eafd72f44f
+-\ No newline at end of file
+-Index: .idea/modules.xml
+-===================================================================
+-diff --git a/.idea/modules.xml b/.idea/modules.xml
+-deleted file mode 100644
+---- a/.idea/modules.xml	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,8 +0,0 @@
+--<?xml version="1.0" encoding="UTF-8"?>
+--<project version="4">
+--  <component name="ProjectModuleManager">
+--    <modules>
+--      <module fileurl="file://$PROJECT_DIR$/groovy-starter.iml" filepath="$PROJECT_DIR$/groovy-starter.iml" />
+--    </modules>
+--  </component>
+--</project>
+-\ No newline at end of file
+-Index: .idea/uiDesigner.xml
+-===================================================================
+-diff --git a/.idea/uiDesigner.xml b/.idea/uiDesigner.xml
+-deleted file mode 100644
+---- a/.idea/uiDesigner.xml	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,124 +0,0 @@
+--<?xml version="1.0" encoding="UTF-8"?>
+--<project version="4">
+--  <component name="Palette2">
+--    <group name="Swing">
+--      <item class="com.intellij.uiDesigner.HSpacer" tooltip-text="Horizontal Spacer" icon="/com/intellij/uiDesigner/icons/hspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="1" hsize-policy="6" anchor="0" fill="1" />
+--      </item>
+--      <item class="com.intellij.uiDesigner.VSpacer" tooltip-text="Vertical Spacer" icon="/com/intellij/uiDesigner/icons/vspacer.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="1" anchor="0" fill="2" />
+--      </item>
+--      <item class="javax.swing.JPanel" icon="/com/intellij/uiDesigner/icons/panel.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3" />
+--      </item>
+--      <item class="javax.swing.JScrollPane" icon="/com/intellij/uiDesigner/icons/scrollPane.svg" removable="false" auto-create-binding="false" can-attach-label="true">
+--        <default-constraints vsize-policy="7" hsize-policy="7" anchor="0" fill="3" />
+--      </item>
+--      <item class="javax.swing.JButton" icon="/com/intellij/uiDesigner/icons/button.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="3" anchor="0" fill="1" />
+--        <initial-values>
+--          <property name="text" value="Button" />
+--        </initial-values>
+--      </item>
+--      <item class="javax.swing.JRadioButton" icon="/com/intellij/uiDesigner/icons/radioButton.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+--        <initial-values>
+--          <property name="text" value="RadioButton" />
+--        </initial-values>
+--      </item>
+--      <item class="javax.swing.JCheckBox" icon="/com/intellij/uiDesigner/icons/checkBox.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="3" anchor="8" fill="0" />
+--        <initial-values>
+--          <property name="text" value="CheckBox" />
+--        </initial-values>
+--      </item>
+--      <item class="javax.swing.JLabel" icon="/com/intellij/uiDesigner/icons/label.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="0" anchor="8" fill="0" />
+--        <initial-values>
+--          <property name="text" value="Label" />
+--        </initial-values>
+--      </item>
+--      <item class="javax.swing.JTextField" icon="/com/intellij/uiDesigner/icons/textField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+--          <preferred-size width="150" height="-1" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JPasswordField" icon="/com/intellij/uiDesigner/icons/passwordField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+--          <preferred-size width="150" height="-1" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JFormattedTextField" icon="/com/intellij/uiDesigner/icons/formattedTextField.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1">
+--          <preferred-size width="150" height="-1" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JTextArea" icon="/com/intellij/uiDesigner/icons/textArea.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JTextPane" icon="/com/intellij/uiDesigner/icons/textPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JEditorPane" icon="/com/intellij/uiDesigner/icons/editorPane.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JComboBox" icon="/com/intellij/uiDesigner/icons/comboBox.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="0" hsize-policy="2" anchor="8" fill="1" />
+--      </item>
+--      <item class="javax.swing.JTable" icon="/com/intellij/uiDesigner/icons/table.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JList" icon="/com/intellij/uiDesigner/icons/list.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="2" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JTree" icon="/com/intellij/uiDesigner/icons/tree.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3">
+--          <preferred-size width="150" height="50" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JTabbedPane" icon="/com/intellij/uiDesigner/icons/tabbedPane.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+--          <preferred-size width="200" height="200" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JSplitPane" icon="/com/intellij/uiDesigner/icons/splitPane.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="3" hsize-policy="3" anchor="0" fill="3">
+--          <preferred-size width="200" height="200" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JSpinner" icon="/com/intellij/uiDesigner/icons/spinner.svg" removable="false" auto-create-binding="true" can-attach-label="true">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+--      </item>
+--      <item class="javax.swing.JSlider" icon="/com/intellij/uiDesigner/icons/slider.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="8" fill="1" />
+--      </item>
+--      <item class="javax.swing.JSeparator" icon="/com/intellij/uiDesigner/icons/separator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="6" anchor="0" fill="3" />
+--      </item>
+--      <item class="javax.swing.JProgressBar" icon="/com/intellij/uiDesigner/icons/progressbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1" />
+--      </item>
+--      <item class="javax.swing.JToolBar" icon="/com/intellij/uiDesigner/icons/toolbar.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="6" anchor="0" fill="1">
+--          <preferred-size width="-1" height="20" />
+--        </default-constraints>
+--      </item>
+--      <item class="javax.swing.JToolBar$Separator" icon="/com/intellij/uiDesigner/icons/toolbarSeparator.svg" removable="false" auto-create-binding="false" can-attach-label="false">
+--        <default-constraints vsize-policy="0" hsize-policy="0" anchor="0" fill="1" />
+--      </item>
+--      <item class="javax.swing.JScrollBar" icon="/com/intellij/uiDesigner/icons/scrollbar.svg" removable="false" auto-create-binding="true" can-attach-label="false">
+--        <default-constraints vsize-policy="6" hsize-policy="0" anchor="0" fill="2" />
+--      </item>
+--    </group>
+--  </component>
+--</project>
+-\ No newline at end of file
+-Index: .idea/misc.xml
+-===================================================================
+-diff --git a/.idea/misc.xml b/.idea/misc.xml
+-deleted file mode 100644
+---- a/.idea/misc.xml	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,6 +0,0 @@
+--<?xml version="1.0" encoding="UTF-8"?>
+--<project version="4">
+--  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+--    <output url="file://$PROJECT_DIR$/out" />
+--  </component>
+--</project>
+-\ No newline at end of file
+-Index: .idea/vcs.xml
+-===================================================================
+-diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+-deleted file mode 100644
+---- a/.idea/vcs.xml	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,6 +0,0 @@
+--<?xml version="1.0" encoding="UTF-8"?>
+--<project version="4">
+--  <component name="VcsDirectoryMappings">
+--    <mapping directory="" vcs="Git" />
+--  </component>
+--</project>
+-\ No newline at end of file
+-Index: .idea/sonarlint/issuestore/index.pb
+-===================================================================
+-diff --git a/.idea/sonarlint/issuestore/index.pb b/.idea/sonarlint/issuestore/index.pb
+-deleted file mode 100644
+---- a/.idea/sonarlint/issuestore/index.pb	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-+++ /dev/null	(revision 47c5e27f3401f8fca49040b1776695391b0a3572)
+-@@ -1,42 +0,0 @@
+--
+--l
+--<src/com/xcoder/operator/relational/RelationalOperator.groovy,8/0/805e15ac5d9c084a14ae156f1f33caa797d430bf
+--R
+--"src/com/xcoder/SwitchRunner.groovy,2/d/2d5a970b13ec7a3bee19a2aa8d4fb8dc8b864ca4
+--Q
+--!src/com/xcoder/FisrtScript.groovy,0/d/0d592e6e30db98da783190d594cb837081afb44c
+--X
+--(src/com/xcoder/homework/PrintDemo.groovy,f/a/fa41ec77ef15d10917f00e82d2f5050f9d581705
+--R
+--"src/com/xcoder/StringRunner.groovy,d/e/deb6452e3239dc4fef477eb618064f3f79f5fec7
+--P
+-- src/com/xcoder/HelloWorld.groovy,9/b/9bef225789274929b12cc1b94b5a13d0d87d3935
+--B
+--groovy-starter.iml,a/c/ac8ebb130760087a7970fcd9c573564141602a47
+--:
+--
+--.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+--]
+---src/com/xcoder/doc/comment/CommentDemo.groovy,9/7/9780da74de573801fa4026a131943747e7b9c517
+--\
+--,src/com/xcoder/lesson5/VariableRunner.groovy,2/7/27190633a860b060538634cb913e4588989688bc
+--]
+---src/com/xcoder/lesson6/OperatorsRunner.groovy,1/7/17a4b9b26d9cbbee9bad98c0f7195e3739213079
+--U
+--%src/com/xcoder/doc/StringsDemo.groovy,5/2/52466b8a77b16debee9f0313bd4994951105403f
+--Z
+--*src/com/xcoder/lesson7/StringRunner.groovy,c/e/ce91aef728f0acf7f0aff2c9bca22af12c60ac51
+--X
+--(src/com/xcoder/lesson3/HelloWorld.groovy,c/6/c63ced7bb4de529ad06703c91ea0589f88396889
+--J
+--src/com/xcoder/Person.java,5/2/5232baec2521b38588376384ef78a90ad6bbdf37
+--U
+--%src/com/xcoder/VariablesRunner.groovy,9/5/953ecd45936d39b1e75d98b8b632b09582690f33
+--Y
+--)src/com/xcoder/lesson3/FisrtScript.groovy,6/b/6b40801d98e9c4db9299f427249c441252aef958
+--g
+--7src/com/xcoder/operator/arithmetic/UnaryOperator.groovy,6/3/63121928a58bfc5203e0020b119aff1fa86bc5b4
+--p
+--@src/com/xcoder/homework/operator/arithmetic/UnaryOperator.groovy,3/1/31c313a65aeca4b41dea91a0b867f279b702d87e
+--Z
+--*src/com/xcoder/homework/StringsDemo.groovy,1/0/10723cb7373c3d5126260f6044a419eafd72f44f
+-\ No newline at end of file
+Index: src/com/xcoder/homework/loop/LoopsDemo.groovy
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/com/xcoder/homework/loop/LoopsDemo.groovy b/src/com/xcoder/homework/loop/LoopsDemo.groovy
+new file mode 100644
+--- /dev/null	(date 1706604115100)
++++ b/src/com/xcoder/homework/loop/LoopsDemo.groovy	(date 1706604115100)
+@@ -0,0 +1,14 @@
++package com.xcoder.homework.loop
++
++class LoopsDemo {
++    static void main(String[] args) {
++        for (i in [0, 1, 2, 3]) {
++            println(i)
++        }
++
++        def range = 10..15
++        range.findAll {println(it)}
++        def find = range.find { s -> (s == 12) }
++        println(find)
++    }
++}
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/src/com/xcoder/lesson25/Closure2Runner.groovy\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 1\n}</component>\n  <component name=\"ProjectId\" id=\"2bMZbN3ZFdqIr5AMs76D784WFXJ\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.CategoryRunner.executor\": \"Debug\",\n    \"Application.Closure2Runner.executor\": \"Debug\",\n    \"Application.ClosurePractice.executor\": \"Debug\",\n    \"Application.IORunner.executor\": \"Debug\",\n    \"Application.MetaClassRunner.executor\": \"Debug\",\n    \"Application.MissingMethodRunner.executor\": \"Debug\",\n    \"Application.MopRunner.executor\": \"Debug\",\n    \"Application.OopRunner.executor\": \"Run\",\n    \"Application.Runner.executor\": \"Debug\",\n    \"Application.SelfCheck.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"master\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"D:/Soft/Developer/groovy-4.0.12/bin\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"project.structure.last.edited\": \"Project\",\n    \"project.structure.proportion\": \"0.15\",\n    \"project.structure.side.proportion\": \"0.2\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyClassDialog.RECENTS_KEY\">\n      <recent name=\"com.xcoder.lesson18\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Application.Closure2Runner\">\n    <configuration name=\"CategoryRunner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.xcoder.lesson24.CategoryRunner\" />\n      <module name=\"groovy-starter\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.xcoder.lesson24.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"Closure2Runner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.xcoder.lesson25.Closure2Runner\" />\n      <module name=\"groovy-starter\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.xcoder.lesson25.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MetaClassRunner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.xcoder.lesson22.MetaClassRunner\" />\n      <module name=\"groovy-starter\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.xcoder.lesson22.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MissingMethodRunner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.xcoder.lesson23.MissingMethodRunner\" />\n      <module name=\"groovy-starter\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.xcoder.lesson23.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MopRunner\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.xcoder.lesson21.MopRunner\" />\n      <module name=\"groovy-starter\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.xcoder.lesson21.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Closure2Runner\" />\n        <item itemvalue=\"Application.CategoryRunner\" />\n        <item itemvalue=\"Application.MissingMethodRunner\" />\n        <item itemvalue=\"Application.MetaClassRunner\" />\n        <item itemvalue=\"Application.MopRunner\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12\" />\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-3183f394aec4-920bfa72\" />\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a\" name=\"Changes\" comment=\"\" />\n      <created>1706026978895</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1706026978895</updated>\n      <workItem from=\"1706026980000\" duration=\"1408000\" />\n      <workItem from=\"1706292580927\" duration=\"714000\" />\n      <workItem from=\"1706295405257\" duration=\"201000\" />\n      <workItem from=\"1706295619628\" duration=\"171000\" />\n      <workItem from=\"1706295799389\" duration=\"61000\" />\n      <workItem from=\"1706295885468\" duration=\"107000\" />\n      <workItem from=\"1706296045645\" duration=\"511000\" />\n      <workItem from=\"1706333718011\" duration=\"7041000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 86a57a7b9dd9338c19d9de538322f167dd0972ac)
++++ b/.idea/workspace.xml	(date 1707110275944)
+@@ -5,9 +5,10 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson25/Closure2Runner.groovy" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/loop/LoopsDemo.groovy" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch" beforeDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml" beforeDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xcoder/lesson17/Student.groovy" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -32,41 +33,43 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.CategoryRunner.executor": "Debug",
+-    "Application.Closure2Runner.executor": "Debug",
+-    "Application.ClosurePractice.executor": "Debug",
+-    "Application.IORunner.executor": "Debug",
+-    "Application.MetaClassRunner.executor": "Debug",
+-    "Application.MissingMethodRunner.executor": "Debug",
+-    "Application.MopRunner.executor": "Debug",
+-    "Application.OopRunner.executor": "Run",
+-    "Application.Runner.executor": "Debug",
+-    "Application.SelfCheck.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "master",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "D:/Soft/Developer/groovy-4.0.12/bin",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "project.structure.last.edited": "Project",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.CategoryRunner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.Closure2Runner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.ClosurePractice.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.IORunner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.LoopsDemo.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.MetaClassRunner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.MissingMethodRunner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.MopRunner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.OopRunner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Runner.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.SelfCheck.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Task1.executor&quot;: &quot;Debug&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;D:/Soft/Developer/groovy-4.0.12/bin&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyClassDialog.RECENTS_KEY">
+       <recent name="com.xcoder.lesson18" />
+     </key>
+   </component>
+-  <component name="RunManager" selected="Application.Closure2Runner">
++  <component name="RunManager" selected="Application.LoopsDemo">
+     <configuration name="CategoryRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson24.CategoryRunner" />
+       <module name="groovy-starter" />
+@@ -93,12 +96,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="MetaClassRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson22.MetaClassRunner" />
++    <configuration name="LoopsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.xcoder.homework.loop.LoopsDemo" />
+       <module name="groovy-starter" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="com.xcoder.lesson22.*" />
++          <option name="PATTERN" value="com.xcoder.homework.loop.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -119,12 +122,12 @@
+         <option name="Make" enabled="true" />
+       </method>
+     </configuration>
+-    <configuration name="MopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson21.MopRunner" />
++    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task1.Task1" />
+       <module name="groovy-starter" />
+       <extension name="coverage">
+         <pattern>
+-          <option name="PATTERN" value="com.xcoder.lesson21.*" />
++          <option name="PATTERN" value="com.xcoder.lesson26.task1.*" />
+           <option name="ENABLED" value="true" />
+         </pattern>
+       </extension>
+@@ -134,20 +137,18 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.LoopsDemo" />
++        <item itemvalue="Application.Task1" />
+         <item itemvalue="Application.Closure2Runner" />
+         <item itemvalue="Application.CategoryRunner" />
+         <item itemvalue="Application.MissingMethodRunner" />
+-        <item itemvalue="Application.MetaClassRunner" />
+-        <item itemvalue="Application.MopRunner" />
+       </list>
+     </recent_temporary>
+   </component>
+   <component name="SharedIndexes">
+     <attachedChunks>
+       <set>
+-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+         <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-920bfa72" />
+-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+       </set>
+     </attachedChunks>
+   </component>
+@@ -167,6 +168,8 @@
+       <workItem from="1706295885468" duration="107000" />
+       <workItem from="1706296045645" duration="511000" />
+       <workItem from="1706333718011" duration="7041000" />
++      <workItem from="1706597440749" duration="1845000" />
++      <workItem from="1707109618624" duration="626000" />
+     </task>
+     <servers />
+   </component>

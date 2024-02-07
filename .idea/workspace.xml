@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson27/BodySpecification.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson27/DslBuilder.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson27/DslRunner.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/lesson27/MailSpecification.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/dsl/Dependency.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/dsl/Project.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/dsl/ProjectBuilder.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/dsl/ProjectDsl.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_26_2024_10_11_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2024_9_18_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_1_29_2024_9_18_PM__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +53,14 @@
     "Application.Task1.executor": "Debug",
     "Application.Task2.executor": "Run",
     "Application.Task3.executor": "Debug",
+    "Groovy.DslRunner.executor": "Debug",
+    "Groovy.ProjectDsl.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Soft/Developer/groovy-4.0.12/bin",
+    "last_opened_file_path": "/home/spartak/IdeaProjects/groovy-starter",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,20 +77,7 @@
       <recent name="com.xcoder.lesson18" />
     </key>
   </component>
-  <component name="RunManager" selected="Groovy.DslRunner">
-    <configuration name="MopRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson21.MopRunner" />
-      <module name="groovy-starter" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson21.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Groovy.ProjectDsl">
     <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task1.Task1" />
       <module name="groovy-starter" />
@@ -134,22 +128,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ProjectDsl" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+      <module name="groovy-starter" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/xcoder/homework/dsl/ProjectDsl.groovy" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/xcoder/homework/dsl" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Groovy.ProjectDsl" />
         <item itemvalue="Groovy.DslRunner" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.Task2" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.MopRunner" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
         <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-920bfa72" />
-        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
       </set>
     </attachedChunks>
   </component>
@@ -169,6 +172,7 @@
       <workItem from="1706295885468" duration="107000" />
       <workItem from="1706296045645" duration="511000" />
       <workItem from="1706333718011" duration="7041000" />
+      <workItem from="1707302415911" duration="1845000" />
     </task>
     <servers />
   </component>
@@ -179,9 +183,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/xcoder/lesson27/DslBuilder.groovy</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/com/xcoder/homework/dsl/ProjectBuilder.groovy</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
