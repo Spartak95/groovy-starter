@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/metaclass/Car.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/metaclass/MetaClassDemo.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/groovy_4_0_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/missing/Car.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/missing/MissingDemo.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +40,7 @@
     "Application.IORunner.executor": "Debug",
     "Application.MetaClassDemo.executor": "Run",
     "Application.MetaClassRunner.executor": "Debug",
+    "Application.MissingDemo.executor": "Run",
     "Application.MissingMethodRunner.executor": "Debug",
     "Application.MopRunner.executor": "Debug",
     "Application.OopRunner.executor": "Run",
@@ -73,7 +73,7 @@
       <recent name="com.xcoder.lesson18" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MetaClassDemo">
+  <component name="RunManager" selected="Application.MissingDemo">
     <configuration name="MetaClassDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xcoder.homework.metaclass.MetaClassDemo" />
       <module name="groovy-starter" />
@@ -87,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xcoder.lesson26.task2.Task2" />
+    <configuration name="MissingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xcoder.homework.missing.MissingDemo" />
       <module name="groovy-starter" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xcoder.lesson26.task2.*" />
+          <option name="PATTERN" value="com.xcoder.homework.missing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MissingDemo" />
         <item itemvalue="Application.MetaClassDemo" />
         <item itemvalue="Groovy.ProjectDsl" />
         <item itemvalue="Groovy.DslRunner" />
         <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.Task2" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +168,7 @@
       <workItem from="1706295885468" duration="107000" />
       <workItem from="1706296045645" duration="511000" />
       <workItem from="1706333718011" duration="7041000" />
-      <workItem from="1707302415911" duration="3112000" />
+      <workItem from="1707302415911" duration="4482000" />
     </task>
     <servers />
   </component>
