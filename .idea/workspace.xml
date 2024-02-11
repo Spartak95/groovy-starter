@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/closure/EnclosedInInnerClass.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/closure/Enclosing.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/xcoder/homework/closure/strategy/ClosureStrategyDemo.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_9_22_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_1_2024_9_22_AM__Changes_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/xcoder/homework/closure/ClosurePractice.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/xcoder/homework/closure/ClosurePractice.groovy" afterDir="false" />
-    </list>
+    <list default="true" id="5f064d0e-dce3-4aa5-ab1d-4aa54c942b9a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
